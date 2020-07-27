@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SK</string>
+    <string name="Name">Nama</string>
+    <string name="TTL">Tanggal Lahir</string>
+    <string name="address">Alamat</string>
+    <string name="hp">No HP</string>
+    <string name="kegiatan">Hobby</string>
+    <string name="impian">Cita - cita</string>
+    <string name="hasil">Submit</string>
+</resources>
